@@ -3,7 +3,6 @@ def countdown
   while countdown>0 do 
      puts"#{countdown} second(S)!"
     countdown-= 1
-    sleep 1 
   end      
      "HAPPY NEW YEAR!"
 end
